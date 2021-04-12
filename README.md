@@ -1,1 +1,1 @@
-# WEproject
+# WELabProject
